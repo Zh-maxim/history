@@ -480,8 +480,28 @@ body {
         display: block;
     }
     .metaBlock2 { 
-        margin-top: 3050px; 
+        margin-top: 2850px; 
     }
 }
 /*&$*$*'ламллакдппщдададс*/
-
+@media (max-width:190px) {
+    .menuNavElement3,
+    .menuNavElement4,
+    .menuNavElement5,
+    .menuNavElement6 {
+        display: none;
+    }
+    .contact {
+        width: 60px;
+        height: 60px;
+    }
+    .header {
+        justify-content: space-between;
+    }
+    .menuNavElementBurger {
+        display: block;
+    }
+    .metaBlock2 { 
+        margin-top: 3050px; 
+    }
+}
