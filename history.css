@@ -457,7 +457,7 @@ body {
         min-width: 730px;
     }
     .metaBlock2 {
-        margin-top: 2850px;
+        margin-top: 3050px;
         
     }
 }
@@ -481,8 +481,4 @@ body {
     }
 }
 /*&$*$*'ламллакдппщдададс*/
-@media (max-width:190px){
- .metaBlock2{ 
-  margin-top: 3050px;
-}
-}
+
